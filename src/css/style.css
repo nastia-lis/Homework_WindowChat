@@ -1,0 +1,7 @@
+.button{
+    -fx-background-color: green;
+}
+
+.text-area{
+    -fx-control-inner-background: gray;
+}
